@@ -1,8 +1,8 @@
-title: f
-description: f
+title: Test
+description: The worst thing to ever exist.
 template:
   repo: f-template
-  name: f
+  name: Test
 before:
   - type: createIssue
     title: Welcome!
